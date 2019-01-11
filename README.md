@@ -29,3 +29,5 @@ dotnet NATSDurableSubscriptionIssueReplication.dll sub1 sample1 clientc
 7. Most of messages will be received by one consumer
 
 ![Round robin not working](Capture-2.png)
+
+On this image the consumer that first connected is on bottom right corner.
